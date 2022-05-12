@@ -1,0 +1,25 @@
+{
+"dependencias" : [
+
+    "incorporacion" [
+        "preguntas" : [
+        {
+            "pregunta1"
+            :
+{
+                "respuesta" : "esta es la respuesta para la pregunta 1" 
+            }
+        },
+        {
+            "pregunta2" :
+            {
+                "respuesta" : "esta es la respuesta para la pregunta 1" 
+            }
+        } 
+        ]
+
+    }
+    
+]
+
+}
